@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Rose:wght@300;400;500;600;700&display=swap');
+body{
+    font-family:'Red Rose', cursive;
+}
+.buttons{
+    border-radius:  0px 8px 8px 0px;
+}
+.gradiant{
+    background:  linear-gradient(90deg, #A02279 11.45%, #A02279 11.45%);
+}
+.gradcolor{
+   color: linear-gradient(90deg, #A02279 11.45%, #A02279 11.45%);
+}
+.opacity{
+    background: rgba(64, 64, 64, 0.3);
+}
